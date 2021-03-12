@@ -45,9 +45,6 @@ sumOfArrays (double arr1[], double arr2[])	//function that calculates the sum of
   return sum;			//returns the sum 
 }
 
-
-//Too be honest I wasn't exactly sure what this project was asking me to complete.. I reread the question a few times. My program above gives me a - sum which does not seem correct.
-//Here is what I would implement to correct it however I am unsure which is entirely correct..
 //int main ()
 //{
 //const time_t start_time = time (NULL);	//same as previous program, time = null to given current time, start time function
