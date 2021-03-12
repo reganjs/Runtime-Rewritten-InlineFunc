@@ -1,6 +1,4 @@
-//Regan Setter
-//Student ID 3505894
-//Computer Science 206
+//Regan 
 //February 25th, 2021
 
 #include <iostream>
@@ -8,7 +6,7 @@
 #include <ctime>
 #include <string>
 
-//Rewrite program 1 using an inline function to perform the calculation. In the test plan for this program (actual results section), compare the time required by this program to execute against the time required by the first (non-inline) program.
+//Rewrite runtime program in C++ using an inline function to perform the calculation. In the test plan for this program (actual results section), compare the time required by this program to execute against the time required by the first (non-inline) program.
 //Tests 1. Rewrote the same code/program from assignment one but used an inline function instead. 
 //2. After running the program - the sum of the product is identical
 //3. Sum of the product is equal to 176816052 = correct and the time elapsed is either 0 or 1 for all the tests I have done, seems slower than the prior program
